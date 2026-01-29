@@ -23,20 +23,21 @@ I build websites and apps. I like making things simple and easy to use.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Todo Dashboard](https://github.com/nguyenbatai30906/todo-dashboard)** | Task management app with search and filter. | `Next.js` `TypeScript` `Tailwind` |
-| **[Money Manager](https://github.com/nguyenbatai30906/money-manager)** | Personal expense tracker with statistics. | `Node.js` `Bootstrap` |
-| **[Daily Notes Bot](https://github.com/nguyenbatai30906/daily-notes)** | Telegram bot for quick note-taking. | `Python` `SQLite` |
+| **[Todo Dashboard](https://github.com/NguyenBaTai30906/todo-dashboard)** | Task management app with search and filter. | `Next.js` `TypeScript` `Tailwind` |
+| **[Money Manager](https://github.com/NguyenBaTai30906/money-manager)** | Personal expense tracker with statistics. | `Node.js` `Bootstrap` |
+| **[Daily Notes Bot](https://github.com/NguyenBaTai30906/daily-notes)** | Telegram bot for quick note-taking. | `Python` `SQLite` |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenbatai30906&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbatai30906&layout=compact&theme=radical)
+![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenBaTai30906&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenBaTai30906&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
 
-- **GitHub**: [nguyenbatai30906](https://github.com/nguyenbatai30906)
+- **GitHub**: [NguyenBaTai30906](https://github.com/NguyenBaTai30906)
 - **Email**: [Contact Me](mailto:pemtaoha@gmail.com)
+
